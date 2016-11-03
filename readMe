@@ -1,0 +1,13 @@
+1. Install python 2.7 on your system.
+
+2. Instal OpenCV with the help of following steps:
+    	a. Launch a web browser and go to opencv official page. 
+      b. Choose a build you want to use and download it. 
+      c. Make sure you have admin rights. Unpack the self-extracting archive.
+      d. copy the cv.pyd in python27/lib/site_packages.
+      
+3. Install numpy and pyttsx.
+
+4. Have a webcam attached to your system.
+
+5. Have a steady white background.
